@@ -7,4 +7,4 @@ on:
 
 jobs:
   call-core-ci:
-    uses: ldapjs/.github/.github/workflows/node-ci.yml@main
+    uses: ldap-js/.github/.github/workflows/node-ci.yml@main
