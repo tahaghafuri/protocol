@@ -1,4 +1,4 @@
-# `@ldapjs/protocol`
+# `@ldap-js/protocol`
 
 This package provides a set of constant values and ASN.1 tags that are used
 throughout the LDAP protocol. The constants are taken primarily from the
